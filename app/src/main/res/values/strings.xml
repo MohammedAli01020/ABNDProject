@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="description_text_view" >Left Bank serves authentic homemade French pastry, breakfast, gourmet salads and main courses, pizzas</string>
+    <string name="contact_info_text_view">Contact Information</string>
+    <string name="location_text_view">Address: 53 Abou El Feda Street | Zamalek, Cairo 11511, Egypt</string>
+    <string name="address_text_view">Address: 53 Abou El Feda Street | Zamalek, Cairo 11511, Egypt</string>
+    <string name="phone_number_text_view">Phone Number: +20 2 27350014</string>
+    <string name="email_text_view">E-mail: pr@urbaneonline.net</string>
+    <string name="description">Description</string>
+    <string name="title">Left Bank</string>
+    <string name="image_description">image of the restaurant</string>
+</resources>
+
